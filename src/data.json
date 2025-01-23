@@ -1,0 +1,143 @@
+{
+    "languageSite": {
+      "items": {
+        "en": ["Thai", "English"],
+        "th": ["ไทย", "อังกฤษ"]
+      }
+    },
+    "navbarSection": {
+      "title": {
+        "en": "Manuschai",
+        "th": "มนัสชัย"
+      },
+      "title1": {
+        "en": ".S",
+        "th": ".ส"
+      },
+      "menus": {
+        "en": {
+            "welcome": "Welcome",
+            "contact": "Contact Us",
+            "home": "Home",
+            "portfolio": "Portfolio",
+            "about": "About",
+            "elements": "Elements",
+            "services": "Services",
+            "contactUs": "Contact us"
+          },
+          "th": {
+            "welcome": "ยินดีต้อนรับ",
+            "contact": "ติดต่อเรา",
+            "home": "หน้าแรก",
+            "portfolio": "ผลงาน",
+            "about": "เกี่ยวกับ",
+            "elements": "ส่วนประกอบ",
+            "services": "บริการ",
+            "contactUs": "ติดต่อเรา"
+          }
+      }
+    },
+    "homeSection": {
+      "heading": {
+        "name": {
+          "en": "Manuschai",
+          "th": "พอร์ตโฟลิโอ"
+        },
+        "char": {
+          "en": ".S",
+          "th": "มนัสชัย"
+        },
+        "end": {
+          "en": "Portfolio",
+          "th": "แสงจันทร์ดาว"
+        }
+      },
+      "subheading": {
+        "en": "Welcome to My Professional Space",
+        "th": "ยินดีต้อนรับสู่พื้นที่มืออาชีพของฉัน"
+      },
+      "introText": {
+        "en": [
+          "Hello! I am Manuschai Sangjundow, a Full Stack Developer and Web Designer with a passion for creating innovative and efficient solutions. Here, you'll find a collection of my work, showcasing my skills in web development, design, and problem-solving.",
+          "Explore my portfolio to see a range of projects, from dynamic web applications to intricate backend systems. Feel free to reach out if you have any questions or if you'd like to collaborate on a project."
+        ],
+        "th": [
+          "สวัสดีครับ ผม มนัสชัย แสงจันทร์ดาว เป็นนักพัฒนา Full-stack ที่มีประสบการณ์ในการสร้างเว็บแอปพลิเคชันและซอฟต์แวร์หลากหลายประเภท ด้วยความหลงใหลในการเขียนโค้ดและพัฒนาเทคโนโลยีใหม่ๆ ผมจึงสนุกกับการทำงานที่หลากหลาย ตั้งแต่เว็บไซต์และแอปพลิเคชันมือถือ ไปจนถึงระบบหลังบ้านที่ซับซ้อน.",
+          "สำรวจพอร์ตโฟลิโอของผมเพื่อดูโปรเจกต์ต่างๆ ตั้งแต่เว็บแอปพลิเคชันที่มีความเคลื่อนไหวไปจนถึงระบบหลังบ้านที่ซับซ้อน อย่าลังเลที่จะติดต่อหากคุณมีคำถามหรืออยากร่วมงานกับผมครับ."
+        ]
+      },
+      "buttonText": {
+        "en": "Discover More Templates",
+        "th": "ค้นหาเทมเพลตเพิ่มเติม"
+      },
+      "buttonLink": "#"
+    },
+    "aboutSection": {
+      "name": {
+        "en": "Manuschai Sangjundow",
+        "th": "มนัสชัย แสงจันทร์ดาว"
+      },
+      "profession": {
+        "en": "Full Stack Developer and Web Designer",
+        "th": "นักพัฒนา Full Stack และนักออกแบบเว็บ"
+      },
+      "introText": {
+        "en": [
+          "I am a Full Stack Developer and Web Designer with extensive experience in creating various types of web applications and software. My passion for coding and developing new technologies drives me to enjoy working on diverse projects, from websites and mobile apps to complex backend systems.",
+          "I am proficient in several programming languages such as TypeScript, JavaScript, Python, PHP, and technologies like MySQL, PostgreSQL, React, Angular, Node.js, Django, Laravel, CodeIgniter, Docker, MongoDB, and WordPress. I have the ability to adapt and learn new technologies quickly."
+        ],
+        "th": [
+          "สวัสดีครับ ผม มนัสชัย แสงจันทร์ดาว เป็นนักพัฒนา Full-stack ที่มีประสบการณ์ในการสร้างเว็บแอปพลิเคชันและซอฟต์แวร์หลากหลายประเภท ด้วยความหลงใหลในการเขียนโค้ดและพัฒนาเทคโนโลยีใหม่ๆ ผมจึงสนุกกับการทำงานที่หลากหลาย ตั้งแต่เว็บไซต์และแอปพลิเคชันมือถือ ไปจนถึงระบบหลังบ้านที่ซับซ้อน.",
+          "ผมมีความเชี่ยวชาญในหลายภาษาโปรแกรม เช่น TypeScript, JavaScript, Python, PHP และเทคโนโลยีต่างๆ เช่น MySQL, PostgreSQL, React, Angular, Node.js, Django, Laravel, CodeIgniter, Docker, MongoDB และ WordPress ผมมีความสามารถในการปรับตัวและเรียนรู้เทคโนโลยีใหม่ๆ ได้อย่างรวดเร็ว."
+        ]
+      },
+      "services": {
+        "title": {
+          "en": "Services",
+          "th": "บริการที่ผมเสนอ"
+        },
+        "items": {
+          "en": [
+            "Website and Application Design and Development",
+            "Application Creation",
+            "Backend Systems and API Development",
+            "Software Customization and Maintenance",
+            "System Analysis and Database Design",
+            "Technology Consulting and Software Development"
+          ],
+          "th": [
+            "การออกแบบและพัฒนาเว็บไซต์",
+            "การสร้างแอปพลิเคชัน",
+            "การพัฒนาระบบหลังบ้านและ API",
+            "การปรับแต่งและบำรุงรักษาซอฟต์แวร์",
+            "การวิเคราะห์ระบบและการออกแบบฐานข้อมูล",
+            "การให้คำปรึกษาด้านเทคโนโลยีและการพัฒนาโปรแกรม"
+          ]
+        }
+      },
+      "whyChooseMe": {
+        "title": {
+          "en": "Why Choose Me",
+          "th": "ทำไมถึงเลือกผม"
+        },
+        "items": {
+          "en": [
+            "Diverse Experience: I have experience in developing various projects and working with clients from different industries, which helps me understand customer needs and problems well.",
+            "Professionalism: I value good communication and timely delivery, along with taking responsibility for handling and resolving any issues that arise.",
+            "Continuous Development and Learning: I am committed to developing skills and acquiring new knowledge to stay updated with evolving technologies."
+          ],
+          "th": [
+            "ประสบการณ์ที่หลากหลาย: ผมมีประสบการณ์ในการพัฒนาโปรเจกต์ที่หลากหลายและได้ทำงานร่วมกับลูกค้าจากหลากหลายอุตสาหกรรม ทำให้เข้าใจความต้องการและปัญหาของลูกค้าได้อย่างดี.",
+            "การทำงานอย่างมืออาชีพ: ผมให้ความสำคัญกับการสื่อสารที่ดีและการส่งมอบงานตามกำหนดเวลา พร้อมทั้งรับผิดชอบในการดูแลและแก้ไขปัญหาที่เกิดขึ้น.",
+            "การพัฒนาและการเรียนรู้ตลอดเวลา: ผมใส่ใจในการพัฒนาทักษะและการเรียนรู้เพื่อให้ทันกับเทคโนโลยีที่เปลี่ยนแปลงอยู่เสมอ."
+          ]
+        }
+      },
+      "contactText": {
+        "en": "If you are interested in discussing a project or collaboration, feel free to contact me through the contact form or by email.",
+        "th": "หากคุณสนใจในการพูดคุยเกี่ยวกับโปรเจกต์หรือการร่วมงาน สามารถติดต่อผมได้ผ่านแบบฟอร์มการติดต่อหรืออีเมล."
+      },
+      "imagePath": "images/my-image.jpg"
+    }
+  }
+  
